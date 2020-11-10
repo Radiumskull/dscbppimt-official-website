@@ -13,7 +13,7 @@ const Header = () => {
                 <Grid item><Typography variant="h6" component="h6">Developer Student Clubs BPPIMT</Typography></Grid>
                 <Grid item><Typography variant="body2">DSC BPPIMT provides a platform which aims for the growth and advancement of the student community in the field of technology by providing peer-to-peer learning environment by conducting workshops , webinars and events , providing hands on experiences.</Typography></Grid>
                 <Grid item style={{margin : '2em 0px'}}>
-                    <Link href="/memberform"><Button variant="contained" color="primary" style={{marginRight : '.5em', marginTop : '.5em'}}>Become a Member</Button></Link>
+                    <Button variant="contained" color="primary" style={{marginRight : '.5em', marginTop : '.5em'}} onClick={() => window.open('https://dsc.community.dev/bp-poddar-institute-of-management-and-technology/')}>Become a Member</Button>
                     <Link href="/about"><Button variant="outlined" color="primary" style={{marginTop : '.5em'}}>Learn More</Button></Link>
                 </Grid>
             </Grid>

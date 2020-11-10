@@ -17,7 +17,7 @@ export const coreLeads = [
         name : 'Aritra Bhattacharjee',
         github : 'https://github.com/Radiumskull',
         linkedin : 'https://www.linkedin.com/in/aritra-bhattacharjee-b6b41619',
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Faritra.jpg?alt=media&token=acb18650-01b9-4e65-a5cf-8e4aaa685fc4',
+        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdownload.jpeg?alt=media&token=cf7b7b67-7435-497a-9a91-6219fe3efc0e',
         pos : 'Web Lead'
     },
     {
@@ -59,21 +59,6 @@ export const coreMembers = [
         image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Freetam.jpg?alt=media&token=6e9e455a-f989-4be9-b093-5d202e04998a',
         pos : "Design Team"
     }, 
-    {
-        linkedin : "https://www.linkedin.com/in/disha-kapoor-780a65187/",
-        github : "https://github.com/dishak331",
-        name : "Disha Kapoor",
-        pos : "Management Team",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdisha.jpg?alt=media&token=ce98ac57-5b6d-4956-ba38-6de1cf364ffa'
-
-    }, 
-    {
-        name : "Anjali Jain",
-        linkedin : "https://www.linkedin.com/in/anjali-jain-065bb41a0/",
-        github : "https://github.com/Anjalijain29",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fanjali.jpg?alt=media&token=9f5050aa-1988-4137-a951-3337911bc6b7',
-        pos : "Management Team"
-    },
     {
         name : "Raunak Banerjee",
         linkedin : "https://www.linkedin.com/in/raunak-banerjee-677a661b0",
