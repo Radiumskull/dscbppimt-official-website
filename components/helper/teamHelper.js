@@ -18,7 +18,7 @@ export const coreLeads = [
         image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
         linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
         github : ' https://github.com/ayushmankumar7',
-        pos : "DSC Lead"
+        pos : "Core Team"
     },
     {
         name : 'Aritra Bhattacharjee',
