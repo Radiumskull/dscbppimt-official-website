@@ -1,8 +1,8 @@
 export const lead = [{
-    name : "Ayushman Kumar",
-    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
-    linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
-    github : ' https://github.com/ayushmankumar7',
+    name : "Aniruddha Basak",
+    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2FAniruddhaBasak.jpg?alt=media&token=91019834-b7fa-494e-bd57-c940ebd58cf1",
+    linkedin : "https://www.linkedin.com/in/aniruddha2000/",
+    github : ' https://github.com/aniruddha2000/',
     pos : "DSC Lead"
 },
 {
@@ -58,7 +58,7 @@ export const coreMembers = [
         github : "https://github.com/reetamdutta1",
         image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Freetam.jpg?alt=media&token=6e9e455a-f989-4be9-b093-5d202e04998a',
         pos : "Design Team"
-    }, 
+    },
     {
         name : "Raunak Banerjee",
         linkedin : "https://www.linkedin.com/in/raunak-banerjee-677a661b0",
