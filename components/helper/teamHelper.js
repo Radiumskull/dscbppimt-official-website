@@ -14,6 +14,13 @@ export const lead = [{
 
 export const coreLeads = [
     {
+        name : "Ayushman Kumar",
+        image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
+        linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
+        github : ' https://github.com/ayushmankumar7',
+        pos : "DSC Lead"
+    },
+    {
         name : 'Aritra Bhattacharjee',
         github : 'https://github.com/Radiumskull',
         linkedin : 'https://www.linkedin.com/in/aritra-bhattacharjee-b6b41619',
@@ -58,7 +65,7 @@ export const coreMembers = [
         github : "https://github.com/reetamdutta1",
         image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Freetam.jpg?alt=media&token=6e9e455a-f989-4be9-b093-5d202e04998a',
         pos : "Design Team"
-    }, 
+    },
     {
         name : "Raunak Banerjee",
         linkedin : "https://www.linkedin.com/in/raunak-banerjee-677a661b0",
