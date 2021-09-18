@@ -43,6 +43,7 @@ const Navbar = () => {
                         <DrawerItem label="Blogs" icon={<BookIcon />} link='/blogs'/>
                         <DrawerItem label="Events" icon={<EmojiEventsIcon />} link='/events'/>
                         <DrawerItem label="Teams" icon={<GroupIcon />} link='/team'/>
+                        <DrawerItem label="Alumni" icon={<GroupIcon />} link='/alumni'/>
                         <DrawerItem label="Contact" icon={<ContactsIcon />} link='/contact'/>
                         <DrawerItem label="About" icon={<InfoIcon />} link='/about'/>
                     </List>
@@ -62,6 +63,9 @@ const Navbar = () => {
                 </Grid>
                 <Grid item>
                     <Link href="/team"><Typography variant="body2" style={{cursor : 'pointer'}}>Team</Typography></Link>
+                </Grid>
+                <Grid item>
+                    <Link href="/alumni"><Typography variant="body2" style={{cursor : 'pointer'}}>Alumni</Typography></Link>
                 </Grid>
                 <Grid item>
                     <Link href="/resources"><Typography variant="body2" style={{cursor : 'pointer'}}>Resources</Typography></Link>
