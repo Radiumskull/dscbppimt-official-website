@@ -1,25 +1,12 @@
 export const lead = [{
-    name : "Aniruddha Basak",
-    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2FAniruddhaBasak.jpg?alt=media&token=91019834-b7fa-494e-bd57-c940ebd58cf1",
-    linkedin : "https://www.linkedin.com/in/aniruddha2000/",
-    github : ' https://github.com/aniruddha2000/',
+    name : "Ayushman Kumar",
+    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
+    linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
+    github : ' https://github.com/ayushmankumar7',
     pos : "DSC Lead"
-},
-{
-    name : "Mr. Subhadip Chandra",
-    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fsubhadipsir.jpeg?alt=media&token=0ffc1ea1-0979-4107-ac03-054637a2d7f9",
-    linkedin : "https://www.linkedin.com/mwlite/in/subhadip-chandra-17b82592",
-    pos : "Faculty Advisor"
 }]
 
 export const coreLeads = [
-    {
-        name : "Ayushman Kumar",
-        image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
-        linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
-        github : ' https://github.com/ayushmankumar7',
-        pos : "Core Team"
-    },
     {
         name : 'Aritra Bhattacharjee',
         github : 'https://github.com/Radiumskull',
