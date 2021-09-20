@@ -49,7 +49,7 @@ Debjita - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.apps
 */
 export const coreMembers = [
     {
-        name: "Sosha Ghosh",
+        name: "Diganta Ghosh",
         image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdiganta_ghosh_Y9EpQ81.jpeg?alt=media&token=1161a4e2-159f-464b-9c95-0f6960b9edc4",
         linkedin: "https://www.linkedin.com/in/diganta-ghosh-b06a321b9/",
         github: "https://github.com/diganta413",
