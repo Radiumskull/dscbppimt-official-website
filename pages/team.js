@@ -40,7 +40,7 @@ const MemberCard = (props) => {
     return(        
     <Card style={{maxWidth : '11em', padding : '0em 0px 1em 0px', margin : '2px', minHeight : '17.5em', position : 'relative'}}>
         <CardContent style={{textAlign : 'center'}}>
-            <img src={props.image} style={{borderRadius : '50%', width : '60%', padding : '4px'}}/>
+            <img src={props.image} style={{borderRadius : '50%', width : '50%', padding : '4px'}}/>
                     <Typography variant="h6" style={{fontSize : '1.2em', fontWeight : 'bold'}}>{props.name}</Typography>
                     <Typography variant="body2">{props.pos}</Typography>
         </CardContent>
