@@ -43,12 +43,6 @@ export const coreLeads = [
     }
 ]
 
-/*Ahana - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fahana_basu_IYhngox.webp?alt=media&token=4672a383-2c94-4956-bade-7abaebaced53
-Chandrima - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fchandrima_pal.webp?alt=media&token=2ef18174-90bc-4d35-b01f-53c635f5bfab
-Maaitryo - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmaaitrayo_das_ditNPDZ.webp?alt=media&token=2df0d1ca-9cf8-4f50-ab63-ef2400dd1fc0
-Shams - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmd_shams_firoz.webp?alt=media&token=e6b2555e-1a68-49f0-8d8a-0319636c0500 
-*/
-
 export const coreMembers = [
     {
         name: "Maitrayo Das",
