@@ -5,7 +5,8 @@
 
 
 # DSC BPPIMT
-The Official Page of Developer Students Club - BPPIMT (In Progress)
+The Official Page of Developer Students Club - BPPIMT (alpha version)
+Link - https://dscbppimt.vercel.app/
 
 ## Development Setup 
 
@@ -18,4 +19,5 @@ git checkout dev
 npm install
 npm run dev
 ```
+
 
