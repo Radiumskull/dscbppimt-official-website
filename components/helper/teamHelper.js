@@ -81,7 +81,7 @@ export const coreMembers = [
     {
         name: "Md Shams Firoz",
         image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmd_shams_firoz.webp?alt=media&token=e6b2555e-1a68-49f0-8d8a-0319636c0500",
-        linkedin: "https://www.linkedin.com/in/shams-firoz-824370200",
+        linkedin: "https://www.linkedin.com/in/md-shams-firoz-824370200",
         github: "https://github.com/shamsfiroz",
         pos: "Management Volunteer",
     },
