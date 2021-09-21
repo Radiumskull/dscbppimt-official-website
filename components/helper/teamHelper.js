@@ -1,6 +1,6 @@
 export const lead = [{
     name : "Aniruddha Basak",
-    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2FAniruddhaBasak.jpg?alt=media&token=91019834-b7fa-494e-bd57-c940ebd58cf1",
+    image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Faniruddha_basak_Zb3Nr4P.webp?alt=media&token=e96a1baa-27ca-4f35-808c-c45672cf8701",
     linkedin : "https://www.linkedin.com/in/aniruddha2000/",
     github : ' https://github.com/aniruddha2000/',
     pos : "DSC Lead"
@@ -14,111 +14,82 @@ export const lead = [{
 
 export const coreLeads = [
     {
-        name : "Ayushman Kumar",
-        image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fayushma.jpg?alt=media&token=c47871f1-5641-4244-9ed0-27f31db1811d",
-        linkedin : "https://www.linkedin.com/in/ayushman-kumar-836a19190/",
-        github : ' https://github.com/ayushmankumar7',
-        pos : "Core Team"
+        name : "Arkaprabha Chakraborty",
+        image : "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Farkaprabha_chakraborty_o1OjlTV.webp?alt=media&token=d0a7474c-a383-4688-8df9-ab08d8a7a037",
+        linkedin : "https://www.linkedin.com/in/arkaprabha-chakraborty/",
+        github : ' https://github.com/ArkaprabhaChakraborty',
+        pos : "Tech Lead"
     },
     {
-        name : 'Aritra Bhattacharjee',
-        github : 'https://github.com/Radiumskull',
-        linkedin : 'https://www.linkedin.com/in/aritra-bhattacharjee-b6b41619',
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdownload.jpeg?alt=media&token=cf7b7b67-7435-497a-9a91-6219fe3efc0e',
-        pos : 'Web Lead'
+        name: "Rajarshi Chakraborty",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Frajarshi_chakraborty_ERAxKAj.webp?alt=media&token=7898b4b8-0803-42f2-8f3c-1014c0fefa17",
+        linkedin: "",
+        github: "",
+        pos: "Management Lead"
     },
     {
-        name : "Mayukh Chakraborty",
-        linkedin : "https://www.linkedin.com/in/mayukh-chakraborty-22bb23165/",
-        github : " https://github.com/Mayukh0",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmayukh.jpg?alt=media&token=d20f3ab4-f625-429e-9a5f-5056abfe55df',
-        pos : "Event Lead"
+        name: "Rohan Rudra",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Frohan_rudra_sdpY4Cl.webp?alt=media&token=05b31d03-1c70-4ddf-95fd-07f0a9fd6be1",
+        linkedin:"https://www.linkedin.com/in/rohan-rudra-2647a21b5/",
+        github:"https://github.com/rohanrudra55",
+        pos:"Design Lead"
     },
     {
-        name : "Pritam Ghosh",
-        linkedin : "https://www.linkedin.com/in/pritamgh",
-        github : "https://github.com/mrgpritam",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fpritam.jpg?alt=media&token=5e7951f0-418b-47bf-beef-bcfb412c3ff2',
-        pos : "Design Lead"
-    },
-    {
-        name : "Akashdeep Bhattacharya",
-        linkedin : "https://www.linkedin.com/in/akashdeep-bhattacharya-8aa417158/",
-        github : "https://github.com/akashdeep007",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fakashdeep.jpg?alt=media&token=d5cf4e66-086d-40cb-8d94-f5d9387c16dc',
-        pos : "Android Lead"
-    },
-]
-
-export const coreMembers = [
-    {
-        linkedin : "https://www.linkedin.com/in/n-sai-shashank-58034a159",
-        github : "https://github.com/shashank030401",
-        name : "N Sai Shashank",
-        pos : "Web Team",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fshashank.jpg?alt=media&token=077b8eaf-a988-4886-8327-a520f784d22a'
-
-    },
-    {
-        name : "Reetam Dutta",
-        linkedin : "https://www.linkedin.com/in/reetamdutta1/",
-        github : "https://github.com/reetamdutta1",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Freetam.jpg?alt=media&token=6e9e455a-f989-4be9-b093-5d202e04998a',
-        pos : "Design Team"
-    },
-    {
-        name : "Raunak Banerjee",
-        linkedin : "https://www.linkedin.com/in/raunak-banerjee-677a661b0",
-        github : "https://github.com/Raunak1003",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fraunak.jpg?alt=media&token=d17c4bd0-d728-45db-92d3-7c2ff6fd6fc7',
-        pos : "Event Team"
-    },
-    {
-        name : "Anumita Basak",
-        linkedin : "www.linkedin.com/in/anumita-basak-8a3b9ca6",
-        github : "https://github.com/Anumita01",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fanumita.jpg?alt=media&token=3f742bae-1483-4e0c-a6ed-c07cf9d8b9a4',
-        pos : "Event Team"
-    },
-    {
-        name : "Bhawna Bharat Mehbubani",
-        linkedin : "https://www.linkedin.com/in/bhawna-mehbubani-3445b4195/",
-        github : "https://github.com/BhawnaMehbubani",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fbhawna.jpg?alt=media&token=2188830b-b7c4-4135-8d85-8cc5e8e92472',
-        pos : "Outreach Team"
-    },
-    {
-        name : "Archana Kumari Prajapati",
-        linkedin : "https://www.linkedin.com/in/archana-prajapati-42a0251b2",
-        github : "https://github.com/archana0708",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Farchanaprjapati.jpg?alt=media&token=83744e90-e02e-4ca1-8cd9-298fe31f2479',
-        pos : "Event Team"
-    },
-    {
-        name : "Tanushree Shaw",
-        linkedin : "https://www.linkedin.com/in/tanushree-shaw-438ab4193/",
-        github : "https://github.com/TanushreeShaw",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Ftanushree.jpg?alt=media&token=d23c5f0b-6fd4-450e-ae86-c4c04bf99024',
-        pos : "Web Team"
-    },
-    {
-        name : "Vivek Agarwal",
-        linkedin : "https://www.linkedin.com/mwlite/in/vivek-agarwal-268a841a0",
-        github : "https://github.com/Vivek798",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fvivek.jpg?alt=media&token=7408dbf7-17eb-4230-b7fc-5f1eb4a29b31',
-        pos : "Outreach Team"
-    },    {
-        name : "Debojyoti Mallick",
-        linkedin : "https://www.linkedin.com/in/debojyoti-mallick-7aaa741a0/",
-        github : "https://github.com/debojyoti777",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdebojyoti.jpg?alt=media&token=582758a2-9106-449f-b48a-c46f5ed235a2',
-        pos : "Outreach Team"
-    },
-    {
-        name : "Parichay Dey",
-        linkedin : "https://www.linkedin.com/in/parichay-dey-67291419a/",
-        github : "https://github.com/ParichayDey8",
-        image : 'https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fparichay.jpg?alt=media&token=5cbf46a9-c21f-4583-b160-50d31a7c2d29',
-        pos : "Management Team"
+        name: "Arko Sen",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Farko_sen_gaqqaYp.jpg?alt=media&token=211c1c5a-8793-4a22-88a5-65ed97c77f5e",
+        linkedin: "https://www.linkedin.com/in/arko-sen-4b347a200",
+        github: "https://github.com/Arko27",
+        pos: "Outreach Lead",
     }
 ]
+
+/*
+Diganta - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdiganta_ghosh_Y9EpQ81.jpeg?alt=media&token=1161a4e2-159f-464b-9c95-0f6960b9edc4
+Debjita - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdebjita_mondal.jpg?alt=media&token=6b96793a-7d90-4eb5-a49f-90e5addf89f9 
+*/
+export const coreMembers = [
+    {
+        name: "Diganta Ghosh",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdiganta_ghosh_Y9EpQ81.jpeg?alt=media&token=1161a4e2-159f-464b-9c95-0f6960b9edc4",
+        linkedin: "https://www.linkedin.com/in/diganta-ghosh-b06a321b9/",
+        github: "https://github.com/diganta413",
+        pos: "Tech Volunteer"
+
+    },
+    {
+        name: "Debjita Mondal",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdebjita_mondal.jpg?alt=media&token=6b96793a-7d90-4eb5-a49f-90e5addf89f9",
+        linkedin: "https://www.linkedin.com/in/debjita-mondal-79663a214/",
+        github: "https://github.com/debjita",
+        pos: "Tech Volunteer",
+
+    },
+    {
+        name: "Maitrayo Das",
+        image: " https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmaaitrayo_das_ditNPDZ.webp?alt=media&token=2df0d1ca-9cf8-4f50-ab63-ef2400dd1fc0",
+        linkedin: "https://www.linkedin.com/in/maaitrayodas",
+        github: "https://github.com/Maaitrayo",
+        pos: "Tech Volunteer",
+    },
+    {
+        name: "Chandrima Pal",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fchandrima_pal.webp?alt=media&token=2ef18174-90bc-4d35-b01f-53c635f5bfab",
+        linkedin: "",
+        github: "",
+        pos: "Management Volunteer",
+    },
+    {
+        name: "Md Shams Firoz",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fmd_shams_firoz.webp?alt=media&token=e6b2555e-1a68-49f0-8d8a-0319636c0500",
+        linkedin: "https://www.linkedin.com/in/shams-firoz-824370200",
+        github: "https://github.com/shamsfiroz",
+        pos: "Management Volunteer",
+    },
+    {
+        name: "Ahana Basu",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fahana_basu_IYhngox.webp?alt=media&token=4672a383-2c94-4956-bade-7abaebaced53",
+        linkedin: "https://www.linkedin.com/in/ahana-basu-18463b214/",
+        github: "https://github.com/ahanabasu",
+        pos: "Outreach Volunteer",
+    }
+    ]
