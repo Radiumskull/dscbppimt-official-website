@@ -90,6 +90,6 @@ export const coreMembers = [
         image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fahana_basu_IYhngox.webp?alt=media&token=4672a383-2c94-4956-bade-7abaebaced53",
         linkedin: "https://www.linkedin.com/in/ahana-basu-18463b214/",
         github: "https://github.com/ahanabasu",
-        pos: "Outreach Volunteer",
+        pos: "Tech Volunteer",
     }
     ]
