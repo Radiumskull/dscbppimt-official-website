@@ -45,7 +45,7 @@ export const coreLeads = [
 
 /*
 Diganta - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdiganta_ghosh_Y9EpQ81.jpeg?alt=media&token=1161a4e2-159f-464b-9c95-0f6960b9edc4
-Debjita - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdebjita_mondal.jpg?alt=media&token=6b96793a-7d90-4eb5-a49f-90e5addf89f9 
+Debjita - https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fdebjita_mondal.jpg?alt=media&token=6b96793a-7d90-4eb5-a49f-90e5addf89f9
 */
 export const coreMembers = [
     {
@@ -91,5 +91,47 @@ export const coreMembers = [
         linkedin: "https://www.linkedin.com/in/ahana-basu-18463b214/",
         github: "https://github.com/ahanabasu",
         pos: "Tech Volunteer",
+    },
+    {
+        name: "Shreya Sarkar",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fshreya_ece9032.jpg?alt=media&token=90cc5392-b44c-4882-a5c6-3d511a2deec9",
+        linkedin: "",
+        github: "",
+        pos: "Management Volunteer",
+    },
+    {
+        name: "Eshan Chatterjee",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Feshan_chatterjee.jpg?alt=media&token=123946f6-5647-45f6-81b6-8222564cf03a",
+        linkedin: "",
+        github: "",
+        pos: "Tech Volunteer",
+    },
+    {
+        name: "Kuntal Roy",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2FKuntal_roy.jpg?alt=media&token=c602c6c6-98cc-412d-893c-c3b6c09627a1",
+        linkedin: "",
+        github: "",
+        pos: "Tech Volunteer",
+    },
+    {
+        name: "Antra Gupta",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fantra_gupta.jpg?alt=media&token=19632393-eb32-409f-9d86-ab2cecc583bd",
+        linkedin: "",
+        github: "",
+        pos: "Management volunteer",
+    },
+    {
+        name: "Sampriti Sarkar",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fsampriti_ece0008.jpg?alt=media&token=746b9835-7c21-44c5-80f9-79fa8d4ca5e3",
+        linkedin: "",
+        github: "",
+        pos: "Outreach volunteer",
+    },
+    {
+        name: "Subhraneel Haldar",
+        image: "https://firebasestorage.googleapis.com/v0/b/dscbppimt-cms-storage.appspot.com/o/member_images%2Fsubhraneel_haldar.jpeg?alt=media&token=7d224eda-45a3-43ac-8900-c9e42bb8e88e",
+        linkedin: "",
+        github: "",
+        pos: "Outreach volunteer",
     }
     ]
