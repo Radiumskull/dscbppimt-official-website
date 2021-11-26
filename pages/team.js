@@ -14,20 +14,20 @@ const TeamPage = () => {
 
     return(
     <Layout>
-        <Grid container style={{margin : '2em 0', marginBottom : '6em'}} justify="center" direction="column" alignItems="center" wrap="wrap">
-            <Grid item xs container justify="center">
+        <Grid container style={{margin : '2em 0', marginBottom : '6em'}} justifyContent="center" direction="column" alignItems="center" wrap="wrap">
+            <Grid item xs container justifyContent="center">
             { lead.map(mem => (
                 <Grid item key={mem.name}><CoreCard width="23em" name={mem.name} github={mem.github} linkedin={mem.linkedin} image={mem.image} pos={mem.pos}/></Grid>
                 ))}
             </Grid>
             <Typography variant="h4" style={{maxWidth : '1000px', marginTop : '2em', fontWeight : '600'}}>Core Members</Typography>
-            <Grid item container style={{maxWidth : '1600px'}} justify="center" wrap="wrap">
+            <Grid item container style={{maxWidth : '1600px'}} justifyContent="center" wrap="wrap">
             { coreLeads.map(mem => (
                 <Grid item key={mem.name}><CoreCard width="23em" name={mem.name} github={mem.github} linkedin={mem.linkedin} image={mem.image} pos={mem.pos}/></Grid>
                 ))}
             </Grid>
             <Typography variant="h4" style={{maxWidth : '1000px', marginTop : '2em', fontWeight : '600'}}>Volunteers</Typography>
-            <Grid item container style={{maxWidth : '1600px'}} justify="center">
+            <Grid item container style={{maxWidth : '1600px'}} justifyContent="center">
                 {body}
             </Grid>
         </Grid>

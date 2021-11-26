@@ -57,7 +57,7 @@ const Navbar = () => {
                     DSC BPPIMT
                 </Typography></Link>
             </Grid>
-            <Grid item xs={7} container alignItems="center" spacing={3} justify="flex-end" className={styles.nav}>
+            <Grid item xs={7} container alignItems="center" spacing={3} justifyContent="flex-end" className={styles.nav}>
                 <Grid item>
                     <Link href="/"><Typography variant="body2" style={{cursor : 'pointer'}}>Home</Typography></Link>
                 </Grid>

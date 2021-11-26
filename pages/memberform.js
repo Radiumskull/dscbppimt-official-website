@@ -72,8 +72,8 @@ const MemberForm = () => {
     return(
     <Layout>
         <Container>
-            <Grid className={styles.header} container wrap="wrap-reverse" justify="center" style={{margin : '4em 0px'}}>
-                <Grid item container direction="column" xs={12} md={8} justify="center" component="div">
+        <Grid className={styles.header} container wrap="wrap-reverse" justifyContent="center" style={{margin : '4em 0px'}}>
+            <Grid item container direction="column" xs={12} md={8} justifyContent="center" component="div">
                     <Grid item style={{marginBottom : "2em"}}><Typography variant="h5" component="h5">DSC BPPIMT <span>Membership</span> Registration</Typography></Grid>
                     <Grid item><Typography variant="body2" style={{textAlign : "justify"}}>Google collaborates with university students who are passionate about growing developer communities and supports them with starting student clubs on their campuses.</Typography></Grid>
                     <Grid item>

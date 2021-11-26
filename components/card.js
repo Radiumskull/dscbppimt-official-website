@@ -81,14 +81,14 @@ export const EventCard = (props) => {
     return(
     <Card>
         <CardContent>
-                <Grid container wrap="wrap-reverse" justify="space-between">
+            <Grid container wrap="wrap-reverse" justifyContent="space-between">
                     <Grid item xs={12} md={2}>
                         <img src={props.Image} alt={props.title} style={{height : '100%', width : '100%', objectFit : 'contain'}}/>
                     </Grid>
-                    <Grid item xs={12} md={10} container direction="column" justify="space-between">
+                    <Grid item xs={12} md={10} container direction="column" justifyContent="space-between">
                         <Grid item className={styles.cardContent}>
                             <Box>
-                                <Grid container alignItems="flex-start" justify="space-between">
+                                <Grid container alignItems="flex-start" justifyContent="space-between">
                                     <Grid item xs={12} alignItems="stretch">
                                         <Typography style={{fontWeight : '600', fontSize : '1.5em'}}>{props.title}</Typography>
                                         { props.speaker && <Typography variant="body1" style={{fontWeight : '500', marginBottom : '1em'}}> Speaker: {props.speaker}</Typography> }
@@ -100,7 +100,7 @@ export const EventCard = (props) => {
                                 <Typography variant="body2" className={styles.cardDescription}>{props.description}</Typography>
                             </Box>
                         </Grid>
-                        <Grid item container justify="space-between" alignItems="flex-end" className={styles.blogButtonBar} >
+                        <Grid item container justifyContent="space-between" alignItems="flex-end" className={styles.blogButtonBar} >
                             <Grid item>
                                 <Typography>{dateString}</Typography>  
                             </Grid>
@@ -128,9 +128,9 @@ export const BlogCard = (props) => {
                     <Grid item xs={12} md={2}>
                         <img src={props.Image} alt={props.title} style={{height : '100%', width : '100%', objectFit : 'cover'}}/>
                     </Grid>
-                    <Grid item xs={12} md={10} container direction="column" justify="space-between">
+                    <Grid item xs={12} md={10} container direction="column" justifyContent="space-between">
                         <Grid item className={styles.cardContent}>
-                        <Grid container alignItems="flex-start" justify="space-around">
+                        <Grid container alignItems="flex-start" justifyContent="space-around">
                                     <Grid item container>
                                         <Grid item xs={12}><Typography style={{fontWeight : '600', fontSize : '1.3em', maxWidth : '90%'}}>{props.title}</Typography></Grid>
                                         <Grid item xs={12}><Typography variant="body1" style={{fontWeight : '500', marginBottom : '1em'}}>Author: {props.speaker}</Typography></Grid>    
@@ -140,7 +140,7 @@ export const BlogCard = (props) => {
                                 {props.discription}
                             </Box>
                         </Grid>
-                        <Grid item container justify="space-between" className={styles.blogButtonBar}>
+                        <Grid item container justifyContent="space-between" className={styles.blogButtonBar}>
                             <Grid item alignItems="flex-end">
                                 {props.Platform === 'GeeksForGeeks' ? <GFGIcon style={{width : '60px', display: 'flex', alignItems: 'flex-end'}}/> : props.Platform === 'Medium' ? <MediumIcon style={{width : '80px', display: 'flex', alignItems: 'flex-end'}}/> : <Typography variant="subtitle1" style={{fontWeight : '600'}}>{props.Platform}</Typography>}
                                 
