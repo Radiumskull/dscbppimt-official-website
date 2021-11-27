@@ -14,7 +14,7 @@ const Leaderboard = () => {
         <Layout>
             <Container>
                 <Typography variant="h4" style={{marginTop: '2em'}}>Challenges</Typography>    
-                <Grid container style={{ margin : '1em 0' }} justify="center" alignContent="stretch">
+                <Grid container style={{ margin : '1em 0' }} justifyContent="center" alignContent="stretch">
                     <Grid item>
                         <ChallengeCard />  
                     </Grid>

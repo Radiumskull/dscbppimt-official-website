@@ -11,7 +11,7 @@ const Footer = () => {
     return(
     <Box className={styles.footer}>
         <Grid style={{color : 'white', padding : '2em'}}>
-            <Grid item container justify='space-between'>
+            <Grid item container justifyContent='space-between'>
                 <Grid item><Typography variant="h5">DSC BPPIMT</Typography></Grid>
             </Grid>
             <Grid item container spacing={2} style={{padding : '1em'}}>

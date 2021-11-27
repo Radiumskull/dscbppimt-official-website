@@ -7,8 +7,8 @@ const Header = () => {
     
     return(
     <Container>
-        <Grid container className={styles.header}  wrap="wrap-reverse" justify="center" spacing={2}>
-            <Grid item container direction="column" xs={12} md justify="center" component="div">
+        <Grid container className={styles.header}  wrap="wrap-reverse" justifyContent="center" spacing={2}>
+            <Grid item container direction="column" xs={12} md justifyContent="center" component="div">
                 <Grid item style={{marginBottom : "2em"}}><Typography variant="h5" component="h5">Creation through <Box style={{display : 'inline'}} color="primary.main">Collaboration</Box></Typography></Grid>
                 <Grid item><Typography variant="h6" component="h6">Developer Student Clubs BPPIMT</Typography></Grid>
                 <Grid item><Typography variant="body2">DSC BPPIMT provides a platform which aims for the growth and advancement of the student community in the field of technology by providing peer-to-peer learning environment by conducting workshops , webinars and events , providing hands on experiences.</Typography></Grid>

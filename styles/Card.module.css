@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    justifyContent-content: flex-start;
     margin: 4px;
 }
 
@@ -31,14 +31,14 @@
 }
 
 .buttonsLG{
-    justify-content: flex-end;
+    justifyContent-content: flex-end;
     display: flex;
 }
 
 .buttonsMD{
     margin-top: 1em;
     display: none;
-    justify-content: center;
+    justifyContent-content: center;
 }
 
 

@@ -44,7 +44,7 @@ export function FormikStepper({ children, ...props}) {
   
             { props.renderFormikForm(step, values, errors, touched, status) }
             { step <= props.labels.length - 2 &&
-              <Grid container spacing={2} justify="flex-end" style={{marginTop : '2em'}}>
+              <Grid container spacing={2} justifyContent="flex-end" style={{marginTop : '2em'}}>
               {step > 0 ? (
                 <Grid item>
                   <Button

@@ -1,4 +1,4 @@
-import { createMuiTheme, responsiveFontSizes } from '@material-ui/core/styles';
+import { createTheme, responsiveFontSizes } from '@material-ui/core/styles';
 
 const typography = {
   fontFamily: 'Google Sans',
@@ -14,7 +14,7 @@ const typography = {
 }
 
 
-export const lightTheme = responsiveFontSizes(createMuiTheme({
+export const lightTheme = responsiveFontSizes(createTheme({
     typography: {...typography},
     palette: {
       type : 'light',
@@ -26,7 +26,7 @@ export const lightTheme = responsiveFontSizes(createMuiTheme({
       },
     },
   }));
-export const darkTheme = responsiveFontSizes(createMuiTheme({
+export const darkTheme = responsiveFontSizes(createTheme({
     typography: {...typography},
     palette: {
       type : 'dark',
