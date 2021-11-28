@@ -21,7 +21,7 @@ export default About;
 
 const Content = () => {
     return (
-      <Grid container wrap="wrap" style={{maxWidth : '1200px', margin : '2em auto'}} justify="center">
+      <Grid container wrap="wrap" style={{maxWidth : '1200px', margin : '2em auto'}} justifyContent="center">
         <Grid item xs={12} md={4}>
           <MediaCard title={"Concept of DSC ?"} image={<Rocket style={{maxWidth : '64px', maxHeight : '64px'}}/>} description={"The DSC program is a grassroots channel through which Google provides development skills, mobile and web development skills for students, towards employability."}/>
         </Grid>
